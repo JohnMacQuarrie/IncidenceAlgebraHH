@@ -12,7 +12,7 @@ The file hoch_cohom_inc_algs.sage is code for the function HH(P,c), which runs i
      suggests informally that a = 1/n tends to generate "interesting posets".
      
 
-The file hoch_cohom_inc_algs_pseudocode.md contains pseudocode for the algorithm above.
+The file hoch_cohom_inc_algs_pseudocode.md contains pseudocode for the algorithm HH(P,c) above.
 
 
 The file compare_algorithms.sage contains code to verify the run-time comparison claims made in Remark 5 of the article "Projective resolutions of simple modules and Hochschild cohomology for 
